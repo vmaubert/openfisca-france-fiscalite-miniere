@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.2.0 [#12](https://github.com/openfisca/openfisca-france-fiscalite-miniere/pull/12)
+
+* Ajout du support de Docker.
+
 ### 1.1.2 [#11](https://github.com/openfisca/openfisca-france-fiscalite-miniere/pull/11)
 
 * Correction d'un crash.
